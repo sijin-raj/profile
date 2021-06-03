@@ -3,6 +3,6 @@ information push
 
 # Name:
 # Github-Username:
-# Rol:
+# Role:
 
 Fill your information
